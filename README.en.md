@@ -14,10 +14,13 @@ Turning ideas into useful tools, and research into reusable code and documentati
 
 I work on practical AI agents, security analysis, and workflow automation, with a focus on building tools, validating their behavior, and organizing research.
 
+Public data tools: **[Open-source security policy index](https://8eeth0ven.github.io/security-md-collect/)** · **[Android apps & bounty programs](https://8eeth0ven.github.io/security-md-collect/赏金APK/赏金APK看板.html)**. Search in English or Chinese, with light and dark appearances, to find official program sources and app links.
+
 ## Selected Projects
 
 | Project | What it does |
 | --- | --- |
+| **[security-md-collect](https://github.com/8eeth0ven/security-md-collect)** | Indexes public SECURITY.md policies and Android targets from four platforms, with a searchable [policy dashboard](https://8eeth0ven.github.io/security-md-collect/) and [app directory](https://8eeth0ven.github.io/security-md-collect/赏金APK/赏金APK看板.html). Distinguishes bounty status and unverified mirror candidates. |
 | **[bfs-clicker](https://github.com/8eeth0ven/bfs-clicker)** | Explores Web interfaces with Playwright, extracts Android / iOS API evidence, and exposes capabilities to AI clients through MCP. |
 | **[agentskills-bridge](https://github.com/8eeth0ven/agentskills-bridge)** | Migrates agent skills into executable implementations for target frameworks, with behavioral checks, native runtime verification, and repair from execution feedback. |
 | **[re-skill](https://github.com/8eeth0ven/re-skill)** | Connects reverse engineering knowledge, analysis tools, and executable workflows with traceable evidence for authorized research. |
